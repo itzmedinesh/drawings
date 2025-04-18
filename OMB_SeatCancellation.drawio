@@ -1,0 +1,135 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
+  <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
+    <mxGraphModel dx="1188" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hDSsyQ16fh_BgJF_T24z-33" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" parent="1" vertex="1">
+          <mxGeometry x="120" y="120" width="20" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="hDSsyQ16fh_BgJF_T24z-34" value="React Native Web" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="240" y="120" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="hDSsyQ16fh_BgJF_T24z-41" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="hDSsyQ16fh_BgJF_T24z-34" vertex="1">
+          <mxGeometry x="57" y="117" width="10" height="223" as="geometry" />
+        </mxCell>
+        <mxCell id="hDSsyQ16fh_BgJF_T24z-37" value="Booking Service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="641" y="120" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="hDSsyQ16fh_BgJF_T24z-51" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="hDSsyQ16fh_BgJF_T24z-37" vertex="1">
+          <mxGeometry x="50" y="168.5" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hDSsyQ16fh_BgJF_T24z-58" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="hDSsyQ16fh_BgJF_T24z-37" vertex="1">
+          <mxGeometry x="55" y="270" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hDSsyQ16fh_BgJF_T24z-38" value="Seat Inventory Service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="440" y="120" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="hDSsyQ16fh_BgJF_T24z-48" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="hDSsyQ16fh_BgJF_T24z-38" vertex="1">
+          <mxGeometry x="55" y="117" width="10" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="hDSsyQ16fh_BgJF_T24z-39" value="Billing Service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="840" y="120" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="hDSsyQ16fh_BgJF_T24z-55" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="hDSsyQ16fh_BgJF_T24z-39" vertex="1">
+          <mxGeometry x="55" y="220" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hDSsyQ16fh_BgJF_T24z-40" value="Seat Cancellation" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="hDSsyQ16fh_BgJF_T24z-34" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="130" y="240" as="sourcePoint" />
+            <mxPoint x="210" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hDSsyQ16fh_BgJF_T24z-49" value="Release Seat" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" source="hDSsyQ16fh_BgJF_T24z-34" target="hDSsyQ16fh_BgJF_T24z-48" edge="1">
+          <mxGeometry x="0.0026" relative="1" as="geometry">
+            <mxPoint x="425" y="242" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hDSsyQ16fh_BgJF_T24z-50" value="Seat Released" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="308" y="270" as="targetPoint" />
+            <mxPoint x="493" y="270" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hDSsyQ16fh_BgJF_T24z-52" value="Initiate Cancellation" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="hDSsyQ16fh_BgJF_T24z-51" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="296" as="sourcePoint" />
+            <mxPoint x="690" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hDSsyQ16fh_BgJF_T24z-53" value="Cancellation Initiated" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" target="hDSsyQ16fh_BgJF_T24z-41" edge="1">
+          <mxGeometry x="0.0026" relative="1" as="geometry">
+            <mxPoint x="300" y="320" as="targetPoint" />
+            <mxPoint x="690" y="319.5" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hDSsyQ16fh_BgJF_T24z-56" value="Process Refund" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" source="hDSsyQ16fh_BgJF_T24z-41" target="hDSsyQ16fh_BgJF_T24z-55" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="825" y="345" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hDSsyQ16fh_BgJF_T24z-57" value="Refund Processed" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="307" y="367" as="targetPoint" />
+            <mxPoint x="895" y="367" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hDSsyQ16fh_BgJF_T24z-59" value="Update Cancelled Status" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" source="hDSsyQ16fh_BgJF_T24z-41" target="hDSsyQ16fh_BgJF_T24z-58" edge="1">
+          <mxGeometry x="0.0026" relative="1" as="geometry">
+            <mxPoint x="626" y="395" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hDSsyQ16fh_BgJF_T24z-60" value="Status Updated" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="307" y="419" as="targetPoint" />
+            <mxPoint x="696" y="419" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hDSsyQ16fh_BgJF_T24z-61" value="Notification Service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="1040" y="120" width="100" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="hDSsyQ16fh_BgJF_T24z-62" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="hDSsyQ16fh_BgJF_T24z-61" vertex="1">
+          <mxGeometry x="45" y="320" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hDSsyQ16fh_BgJF_T24z-63" value="Event: Trigger Notification" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="307" y="450" as="sourcePoint" />
+            <mxPoint x="1085" y="450" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hDSsyQ16fh_BgJF_T24z-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0.45;entryY=0.905;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="hDSsyQ16fh_BgJF_T24z-62" target="hDSsyQ16fh_BgJF_T24z-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1090" y="482" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hDSsyQ16fh_BgJF_T24z-68" value="Send Email Notification" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="hDSsyQ16fh_BgJF_T24z-65" vertex="1" connectable="0">
+          <mxGeometry x="-0.818" y="1" relative="1" as="geometry">
+            <mxPoint x="-8" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hDSsyQ16fh_BgJF_T24z-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="1" source="hDSsyQ16fh_BgJF_T24z-41" target="hDSsyQ16fh_BgJF_T24z-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="450" />
+              <mxPoint x="260" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hDSsyQ16fh_BgJF_T24z-67" value="Confirm Cancellation" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="hDSsyQ16fh_BgJF_T24z-66" vertex="1" connectable="0">
+          <mxGeometry x="0.2657" y="1" relative="1" as="geometry">
+            <mxPoint x="19" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hDSsyQ16fh_BgJF_T24z-69" value="Seat Cancellation Transaction Scenario" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="460" y="40" width="340" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
